@@ -1,0 +1,2 @@
+# lets_avoid_java_generics
+lets_avoid_java_generics
