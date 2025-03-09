@@ -1,6 +1,5 @@
 package it.ciroppina.lets_avoid_java_generics.app;
 
-import java.util.Iterator;
 import java.util.List;
 
 import org.springframework.boot.SpringApplication;
